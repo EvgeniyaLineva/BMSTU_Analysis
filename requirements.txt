@@ -1,0 +1,16 @@
+blinker
+click
+colorama
+Flask
+gunicorn
+itsdangerous
+Jinja2
+joblib
+MarkupSafe
+numpy
+packaging
+scikit-learn-1.2.2
+scipy
+threadpoolctl
+waitress
+Werkzeug
